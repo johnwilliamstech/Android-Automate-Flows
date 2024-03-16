@@ -1,4 +1,4 @@
-# Android-Automate-Flows
+# Android Automation Flows - For The "Automate" App
 Automation flows for the "Automate" android app. Flows here can be viewed and/or imported. 
 
 By using anything in this project, you agree that the project is not liable to any damage to your data or systems. 
